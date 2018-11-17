@@ -1,6 +1,6 @@
 # Image Processor
 
-Made in C# using Visual Studio 2017. To run, open the .sln file in Visual Studio.
+Made in C# using Visual Studio 2017. To run, open the .sln file in Visual Studio or double-click on "ImageProcessing.exe" under ImageProcessing/bin/Debug.
 
 Summary
 -----------
