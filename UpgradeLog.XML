@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageProcessing">
+</Property><Property Name="Solution File" Value="D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\ImageProcessing.sln">
+</Property><Property Name="Date" Value="Wednesday, August 18, 2010">
+</Property><Property Name="Time" Value="11:36 AM">
+</Property></Properties><Event ErrorLevel="0" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImageProcessing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImageProcessing.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

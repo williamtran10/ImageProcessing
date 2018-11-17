@@ -1,0 +1,98 @@
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2014-2015 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2015-2016 Computer Science\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2017-2018 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2018-2019 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\073341380\Documents\ICS4U1\Labs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\William Tran\Desktop\PictureProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\William Tran\Desktop\PictureProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\William Tran\Desktop\PictureProcessing\obj\Debug\ImageProcessing.pdb
